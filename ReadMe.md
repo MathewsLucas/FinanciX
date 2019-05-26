@@ -1,4 +1,4 @@
-#FinanciX
+FinanciX
 
 A Budgeting and Personal Finance App
 
